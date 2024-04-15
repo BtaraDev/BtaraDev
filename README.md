@@ -1,4 +1,4 @@
-- I’m @BtaraDev
+- I’m @btaratuta
 - I’m interested in making Websites, Coding games with Godot, and any other programming related things.
 - I’m currently learning Android Studio, and trying to be a better Gamedev.
 - I usually make questionable projects using python
